@@ -22,4 +22,4 @@ across multiple Florida cities, built with Microsoft Power BI.
 - KPI dashboard design
 
 ## Dashboard Preview
-![Dashboard Preview](preview.png)
+![Dashboard Preview](powerbi-sales-dashboard-papajohns.pdf)
