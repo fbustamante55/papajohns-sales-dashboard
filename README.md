@@ -1,25 +1,21 @@
-# 📊 Papa John's Sales Analytics Dashboard — Power BI
+# Papa John's – Sales Dashboard
 
-## Overview
-Sales analytics dashboard analyzing **817,860+ orders** from Papa John's 
-across multiple Florida cities, built with Microsoft Power BI.
+Interactive sales analytics dashboard built with Power BI to visualize revenue, orders, and performance metrics for Papa John's.
 
-## Key Insights
-- 🍕 **Large pizza** leads sales across all categories
-- 🕐 **Afternoon (Tarde)** is the peak sales period (486K orders in Naples alone)
-- 📅 **Demand is consistent year-round** — useful for inventory planning
-- 🏙️ Sales distributed evenly across Miami Beach, Naples, Orlando, Pensacola & Tampa
-
-## Recommendations Delivered
-- Promote large-size pizzas during evening hours to target friend groups
-- Leverage stable monthly demand for more predictable staffing and inventory
-- Focus marketing efforts around the lunch/afternoon window
-
-## Tools Used
+## Technologies
 - Microsoft Power BI
-- Data modeling & DAX
-- Geospatial visualization
-- KPI dashboard design
+- DAX
+- Data modeling
 
-## Dashboard Preview
-![Dashboard Preview](powerbi-sales-dashboard-papajohns.pdf)
+## Features
+- Sales revenue breakdown by region and product
+- Order volume trends over time
+- Top-performing items analysis
+- KPI cards and interactive filters
+
+## How to Open
+1. Install [Power BI Desktop](https://powerbi.microsoft.com/)
+2. Open the `.pbix` file from this repository
+
+## Author
+**Fabian Bustamante** — [GitHub](https://github.com/fbustamante55)
